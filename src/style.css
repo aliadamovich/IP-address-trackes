@@ -45,7 +45,7 @@
 	outline: none;
 	padding: 1.5rem 2rem;
 	border-radius: 10px 0 0 10px;
-	cursor: pointer;
+	/* cursor: pointer; */
 }
 
 .search-bar__btn {
