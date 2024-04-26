@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/leaflet": "^1.9.12",
     "parcel": "^2.12.0"
   },
   "dependencies": {
