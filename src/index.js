@@ -1,5 +1,5 @@
 import { validateIp, addTileLayer,getIpAddress, addOffset } from './helpers';
-import 'leaflet/dist/leaflet.css';
+// import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import icon from '../images/icon-location.svg';
 
